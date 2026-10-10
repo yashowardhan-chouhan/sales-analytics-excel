@@ -4,6 +4,11 @@
 
 This project analyses sales performance using Microsoft Excel to identify revenue trends, profitability patterns, customer behaviour and service category performance. The goal was to turn raw sales data into meaningful business insights that can support decision-making.
 
+## Dashboard Preview
+
+![Sales Analytics Dashboard](sales-analytics-dashboard.png)
+
+
 ## Tools Used
 
 - **Microsoft Excel** — data analysis and dashboard development
